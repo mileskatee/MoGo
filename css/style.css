@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #95E1D3;
+}
+
+a:hover {
+    color: #F38181;
+}
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 360px;
+    margin-top: 17px;
+}
+
+nav {
+    display: flex;
+}
+
+.logo:hover {
+    color: #95E1D3;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    display: inline-block;
+    padding-top: 32px;
+    padding-right: 55px;
+}
+
+.nav-about {
+    padding-left: 632px;
+}
+
+.we-work-with {
+    font-family: 'Kaushan Script', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+h1 , h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.services {
+    padding-left: 390px;
+    padding-top: 65px;
+    padding-right: 362px;
+    display: inline-block;
+}
+
+.lorem-1 {
+    display: inline-block;
+}
+
+.name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.description {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    width: 275.5px;
+    height: 37px;
+    padding-right: 69.22px;
+    color: #B6B6B6;
+}
+
+.services-image {
+    float: left;
+    margin-right: 20px;
+}
+
+.noname {
+    text-align: center;
+    color: #B6B6B6;
+    width: 50%;
+    padding-left: 408px;
+    margin-bottom: 27px;
+}
+
+.team-block {
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.team-block-1 {
+    padding-left: 360px ;
+    padding-right: 30px;
+}
+
+.team-block-2 {
+    padding-right: 30px;
+}
+
+.team-name {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.team-profession {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 15px;
+    color: #B6B6B6;
+}
+
+input {
+    display: inline-block;
+}
+
+.p-footer{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 360px;
+}
+
+span {
+    color: #F38181;
+}
+
+form {
+    display: inline-block;
+    margin-top: 91px;
+}
+
+input {
+    width: 230px;
+    height: 39px;
+    border-width: 1px #B6B6B6;
+    margin-left: 523px;
+    border: 1px solid #B6B6B6;
+    margin-right: 0;
+}
+
+.btn-footer {
+    background-color: #95E1D3;
+    width: 150px;
+    height: 43px;
+    border: none;
+    margin-left: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #f2f2f2;
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: #B6B6B6;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+    font-size: 14px;
+    text-align: center;
+}
